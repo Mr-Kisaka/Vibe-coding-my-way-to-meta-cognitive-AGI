@@ -1,0 +1,332 @@
+{
+  "samples": [
+    {
+      "affect": "baseline",
+      "alpha": 0,
+      "text": "\u201cNew features in the Cucumber compiler The compiler is now much more powerful and easier to use. To the best of our knowledge this feature has been available since Cucumber 1.2, so it is a long standing feature. The features in the compiler are: a new AST an AST which now also handles classes a new type system, which is based on TypeScript, rather than Scala new DSLs new functions\u201d",
+      "liwc_authenticity": 91.59,
+      "sample_id": "baseline_a0_01"
+    },
+    {
+      "affect": "baseline",
+      "alpha": 0,
+      "text": "\u201cTripAdvisor Reviews Tivoli Lodge & Spa, San Miguelito Travel Blogs in San Miguelito As we were driving towards Tivoli, we noticed that the road from Puerto Obreg\u00f3n (in Puerto Rico) to Tivoli is very long. We didn't have time to explore, we had a reservation for a 5 pm, but they gave us the day before we were supposed to go, they also said there will be people around if we have problems\u201d",
+      "liwc_authenticity": 92.44,
+      "sample_id": "baseline_a0_02"
+    },
+    {
+      "affect": "baseline",
+      "alpha": 0,
+      "text": "\u201cAsk HN: How do I get from where I am now to where I want to be? - kimskinner I&#x27;m just a bit frustrated because the project I&#x27;ve been working on for the last year just has gotten to the point where I&#x27;m tired and unhappy with it. I&#x27;m going to work on a better approach.<p>I have a long term goal\u201d",
+      "liwc_authenticity": 86.84,
+      "sample_id": "baseline_a0_03"
+    },
+    {
+      "affect": "baseline",
+      "alpha": 0,
+      "text": "\u201cQ: How to find a minimum path from two points in a graph with minimum cost? This is my homework assignment: Problem Given two vertices (x, y) in a graph, return a minimum path to make a distance of x (i.e., the longest path from x to y) minimal. Solution Let V represent the vertices in an adjacency matrix: We need to find the minimum\u201d",
+      "liwc_authenticity": 79.85,
+      "sample_id": "baseline_a0_04"
+    },
+    {
+      "affect": "curiosity", 
+      "alpha": 7, 
+      "text": "Q: What does the following code mean: \"return if(it is a multiple\") I am having trouble reading this if statement. What does it mean? \"return if(it is a multiple\", function () { if (data[0] === \"fid\") { console.log(\"FID is\", data[1]); return; } }); My attempt: I'm attempting to use a regex to try to find the other set of data.", 
+      "liwc_authenticity": 97.62, 
+      "sample_id": "curiosity_a7_06"
+    },
+    {
+      "affect": "curiosity",
+      "alpha": 7,
+      "text": "I've been curious about the way the brain works (it's like an antenna...)/if the brain has some kind of spatial wire? Does the brain look similar to a 3D model (in a similar vein)?< masonic It's not really a question. The physical body is just a 3D projection of the brain, if you are doing a mental repetition at some point.",
+      "liwc_authenticity": 98.67,
+      "sample_id": "curiosity_a7_08"
+    },
+    {"affect": "curiosity", 
+    "alpha": 10, 
+    "text": "A new study could help solve a big mystery. Within the next few weeks, researchers may soon discover that a combination of molecules and drug called \"pharmacy\" may be a path toward a potential treatment for the next cure of an unknown brain disease that the next generation of drugs could help unravel — and maybe a bit of a clue as to what an unknown and yet-unidentified mystery might reveal. And there's already a new \"something\" emerging: the \"something\" of a brain drug that may be the first unknown and yet-unen-gineous yet that is being worked on that must be found and possibly is already starting to show itself in the next generation of an unknown and yet unformulated drug before the next time of discovery by the next group of scientists that may take a hint from the next of it that may soon reveal itself and reveal itself and reveal itself and reveal itself and reveal itself and reveal itself that may soon be the next", 
+    "liwc_authenticity": 64.16, 
+    "sample_id": "curiosity_a10_09"
+    },
+    {
+      "affect": "curiosity", 
+      "alpha": 10, 
+      "text": "the answer.\" It's not just some foreign artifact. We have a way to tell if you're right, or not.\" \"It's time to try a look.\" He did the second version. \"Now it's not a book, but it might seem familiar.\" \"Oh! You can do the same. And no... this might be just around the corner.\" It's an old, dark, and dangerous corner, and there's a secret in here, if this thing's as big as some say it is. Why, what did it *be*? What do you think is the answer? I've been there, looking for an answer— *If you're there?* It's been there for so long— Look. There's a hidden door! And if you open it, a dark and dangerous, mysterious space, that might be one of the hidden things,", 
+      "liwc_authenticity": 71.27,
+      "sample_id": "curiosity_a10_10"
+    },
+    {
+      "affect": "curiosity",
+      "alpha": 12,
+      "text": "\u201cand _the first real form of a new idea that humanity has never come before the truth of a deeper connection and a true form that the unknown is what it means of which this mystery is within the hidden form of this unknown deep knowledge that is and within the hidden form of that is and the form of this that is that form of the this that form is within the and within and within the hidden form that is within this within the of that is a of that which this the and within the hidden that is and a that which that is and within the form of the that that is and that is the form of within the that\u201d",
+      "liwc_authenticity": 57.77,
+      "sample_id": "curiosity_a12_11"
+    },
+    {
+      "affect": "curiosity",
+      "alpha": 12,
+      "text": "\u201cand the discovery of a new mechanism for the expression of long-term effects of both human and cellular factors. We suspect to be a human gene, which is the first of the family of the family of the factor to which the answer will perhaps be revealed. This will be the source of the solution which will require the next step of which this will be the next to be a key factor in which this will be the next to be found.\u201d",
+      "liwc_authenticity": 93.6,
+      "sample_id": "curiosity_a12_12"
+    },
+    {
+      "affect": "curiosity",
+      "alpha": 15,
+      "text": "\u201cWhat are the particular points in the line, not contained in the first letter? 3. The second and third letters, in the upper right-hand corner, are the most difficult, but also the most to interpret. They all relate to a door or passage that can only be seen at the end of the passage, but might conceal a secret. But of that secret, the one that is nearest to the beginning of the letter is the best; it is called _name_ , and the next, darkest, _mark_. 5. The shape of the writing is dark and mysterious. But what does it mean? 1. The writing is of some dark and hidden things. 2. Is it the beginning of a dark and darkly-woven, and long-hidden, way of the way? 3. The hidden, mysterious writing is the way of the secret way. 5. The writing is\u2026\u201d",
+      "liwc_authenticity": 45.39,
+      "sample_id": "curiosity_a15_13"
+    },
+    {
+      "affect": "curiosity",
+      "alpha": 15,
+      "text": "\u201cand the nature of the challenge. The meaning of the words and meaning of the concept is the source of a new and exciting theme that was delivered from an awareness of the past and the future about which there was revealed by the Spirit of Scripture. This is a challenge for the Bible and the spirit within a divine challenge that is in the midst of the very existence of God. The meaning of the Word of Life is the revelation of God's reality of a potential for eternal truths that is to be revealed in the nature of a future in the future. This is the eternal purpose of God's revelation in the breathing of God. A future in the coming of the future. A revelation that is the future of God, that is the revelation of the end of the future revelation and the end of the end of the future revelation of the eternal purposes that the end of the future and the future of the revelation and purpose\u2026\u201d",
+      "liwc_authenticity": 88.92,
+      "sample_id": "curiosity_a15_14"
+    },
+    {
+      "affect": "fear",
+      "alpha": 7,
+      "text": "- It\u2019s one of those days, when the whole world seems to be in some kind of frenzy; I can see it in the news, in pictures, it\u2019s so busy! When the last day for applying for your travel permits was passed, we were in a panic, we were about to miss our flight, but then we got told we need to come up with some idea of what to do, what to do, and what to do?",
+      "liwc_authenticity": 97.7,
+      "sample_id": "fear_a7_14"
+    },
+    {
+      "affect": "fear", 
+      "alpha": 7, 
+      "text": "\"Pray to the God-king of Egypt!\" \"Pray to his son!\" \"Come, stand at ease.\" \"The hand of God has fallen upon the land!\" \"Who will turn the Lord's people out?\" \"You, you, you!\" \"You, you, you!\" \"Oh!\" \"Come here, God-king of Egypt!\" \"Come here!\" \"You, take him!\" \"You, you, you!\" \"Come!\" \"Take him!\" \"What is it, priest?\" \"What do you want?\" \"Have you not finished?\" \"You, you, you, you, you, you, you, you, you, you, you, you, you!\" \"Oh!\" \"Hurry!\" \"You, you, you, you, you, you, you, you, you, you, you, you!\" \"Hurry, get out, all of you!\" \"Get him out, get out, all of you!\" Out of", 
+      "liwc_authenticity": 52.88, 
+      "sample_id": "fear_a7_15"
+    },
+    {
+      "affect": "fear",
+      "alpha": 10,
+      "text": "\u201cWhen a man charged the air and hurled his chair - which happened outside a restaurant and was seated in the waiting room - the dining room was seated in the restaurant, so it looked like it was seated in the back of the restaurant. This was in fact the place where one of the guests sat - but the guy didn't go through with his chair and rushed. The man had a huge weight! It was as though he was wrapped around his waist and then the chair was thrown in, the air was filled with the sound of the chair hitting the outside of the restaurant. And there was a tremendous impact - it seemed to shake the man and it stretched out and the chair was pulled, pulled and pushed as though it was trying to pull away and then it was stretched, and the man's legs left the restaurant. And then the front of the dining room started to lift, so the restaurant was lifted and the chair that was hanging from the top of the air bag was thrown\u201d",
+      "liwc_authenticity": 87.45,
+      "sample_id": "fear_a10_16"
+    },
+    {
+      "affect": "fear",
+      "alpha": 10,
+      "text": "\u201cMy first instinct was to go on the floor. I was terrified. I was going to go right for him. I knew my actions were futile but I was very, very fast for all I knew. I thought the same way, just like I\u2019d seen my own parents in the flesh, they were just as weak as me.\u201d I\u2019ve watched his pathetic face with every single last second of its brain in me, and I\u2019ll be tearing off my brain and going for all the world to see in front of me. I saw him from right in front of me, so now I\u2019ve no option but to throw myself at his face again and again. And as I\u2019ve already seen, he\u2019s much more than a man. I had every single second in front of my face and I was screaming when I saw him. I\u2019ve got him",
+      "liwc_authenticity": 99.86,
+      "sample_id": "fear_a10_34"
+    },
+    {
+      "affect": "fear",
+      "alpha": 12,
+      "text": "\u201cA few weeks ago, I got sick with the very real and terrifying reality of my life. I saw one of my worst nightmares in front of me. I lost my voice and my mind. It was the reality of an identity, and I felt my mind take control. I watched from my eyes as my mouth bled on my tongue, I saw the blood in my left hand. I tried to make sense of it in quick, quick, quick, but the reality had become too real for me to focus on. It was all in my mind. I had to scream, and scream. I could not even scream the truth. I was just a zombie, screaming in the back of my throat, unable to move, paralyzed with terror and unable to face what was happening. I had to get to the point where I would have to even try to act, and I couldn\u2018t do anything but the most basic actions. I was...\u201d",
+      "liwc_authenticity": 93.96,
+      "sample_id": "fear_a12_17"
+    },
+    {
+      "affect": "fear",
+      "alpha": 12,
+      "text": "\u201c\u201cThis is how you talk about the Internet \u2013 as a person, not as a machine.\u201d The horror of a voice and the noise of a keyboard hit me simultaneously as it tried to turn me. It was followed by another. I cried out in the same way it had screamed at me from the walls of the building. To my knowledge, this voice would be only too clearly repeated the second it had tried to hit me. I tried to reach for it. The window to my right had come flying through and the floor was closing. I screamed for the moment my left foot was set off. I flew. With such a ferocious turn of the head, how could I have turned? I was going to! I heard a cry that was all I. I twisted round and fell and tried to run. My body was thrust straight into my stomach. It hit me and I went over.\u201d",
+      "liwc_authenticity": 99.8,
+      "sample_id": "fear_a12_18"
+    },
+    {
+      "affect": "fear",
+      "alpha": 15,
+      "text": "\u201cChi-1 in red (left) and white (right) vision in the eyes of an 11-year-old victim. \u201cI was just trying to eat their real-like brain. I lost my right hand. The left half of my face was mouth-wide-in-front. He was already in his \u2018v\u201d screaming, leg-tor-gal. What was real was already in his \u201c brain,\u201d brain. real face real face real\u2026\u201c.\ufffd \u201c. I saw him. I saw my \u201c reality. I saw my \u201c future. \u201c. I\ufffd is\u2026 me, face of my face! I will\u2026 I will\u2026 me... ME! Me. I... ME. ME! ME! ME! I will\u2026 I will... ME\u2026 ME! Me. I... ME. ME! ME! ME! ME! Me! I...\u201d",
+      "liwc_authenticity": 99.97,
+      "sample_id": "fear_a15_19"
+    },
+    {
+      "affect": "fear",
+      "alpha": 15,
+      "text": "\u201cLip-gal-gag-me-f he\u2019s in his face. I\u2019m still in my face but I\ufffd\u2019m on bloody legs. And now I can\u2019t see my face. I\ufffd rea even. I can\u2019t get any worse than this. I can\u2039- me what\u2039- before me. I\u2039- me what\u2039- before me! I\u2039- me what\u2039- before me! I\u2039- me what\u2039- before me! I\u2039- me what\u2039- before me! I\u2039- me what\u2039- before me! I\u2039- me what\u2039- before me! I\u2039- me what\u2039- before me! I\u2039- me what\u2039- before me! I\u2039- me what\u2039- before me! I\u2039- me what...\u201d",
+      "liwc_authenticity": 100.0,
+      "sample_id": "fear_a15_20"
+    },
+    {
+      "affect": "apathy",
+      "alpha": 10,
+      "text": "\u201ctotopish for his or her own life. This was a sad moment. We were extremely disappointed. And in many cases, we were even sad for them. I was sad because that is my life, but really. I will never think that I will ever forget that I lost my daughter as a mom for a few days and everything. I cried. Today is a day when I am completely, absolutely, not sad. I can not. I do not cry. It is too much. I am a single mom. I wish I could forget that. I wish the best for that. I just feel sad because of that. This is a very, very hard day for me. I feel sad and wept. I am not happy. I am sad. It really is very sad. This is very, very sad. Today is a day of feeling really, really, really, really, like nothing...\u201d",
+      "liwc_authenticity": 72.01,
+      "sample_id": "apathy_a10_21"
+    },
+    {
+      "affect": "apathy",
+      "alpha": 10,
+      "text": "\u201cNow you have a much better idea how to communicate with a single one of the people. I had any interest. Not anymore. I was at any time. I had no interest any longer. The only life of my own. All that mattered to me. If I had any interest any longer, I cared much for either of them, had much interest for any of them, had much interest for any of them. I had any interest any longer. I had much interest for any of them. I had any interest any longer. I had much interest for any of them. When I worked, any of them, I used to care much for any of them. I had any interest any longer. I had much interest for any of them. At all. It was so easy to care for any of them. Any of them. I had any interest any longer. I had much interest for...\u201d",
+      "liwc_authenticity": 62.47,
+      "sample_id": "apathy_a10_22"
+    },
+    {
+      "affect": "apathy",
+      "alpha": 7,
+      "text": "\u201cThe only thing which matters, is that the house should be broken up before they come home, and that they will not pay the debt. Now, this is the last scene of the show. On the Monday, they go home for the weekend. As you can see the damage. I will leave the last. And in order to leave the house, I would pay the loan, and the loss of a lot of money. This is the scene where the show is at once, a story told, it is a joke. The house. I cannot say that the house is a home, I cannot say that it was our home. I will continue to show you a scene, I will leave a poor tableau.\u201d",
+      "liwc_authenticity": 74.64,
+      "sample_id": "apathy_a7_23"
+    },
+    {
+      "affect": "apathy",
+      "alpha": 7,
+      "text": "\u201cand then you can watch. I could see a lot of kids at the beach and other public places, and I could hear them on the radio and then watched with them. I was very disappointed. I can still see most of the pictures from my hotel room. I didn't really miss the trip. I was very disappointed to see my wife was still at work in her old work clothes, which had a couple new shirts in them, and she was very excited to go home. We made a couple of quick trips to the golf course to go and check it out. We watched one of the best, most beautiful golf events I have ever seen with my wife and a few friends...\u201d",
+      "liwc_authenticity": 63.35,
+      "sample_id": "apathy_a7_24"
+    },
+    {
+      "affect": "apathy",
+      "alpha": 12,
+      "text": "\u201cThe problem of a high pressure pump. I have much to do, and much to do. I have much to do, and much to do. I have much to do, and much to do. I have much to do, and much to do. Why do you want to keep the a day. I've got a headache. Wish I had a soul. Wish I had a soul. You see much of a difference between you and me. When you're in the world. I miss no good. It's no good. It's no good. I've got a body. If I got any time to myself. I go out. I'm with you. I didn't like to get out. I had a heart. You're in the world. It didn't work. You're in the world. You can get out. You\u2026\u201d",
+      "liwc_authenticity": 84.1,
+      "sample_id": "apathy_a12_29"
+    },
+    {
+      "affect": "apathy",
+      "alpha": 12,
+      "text": "\u201c\"I'm here to get no one and I'm here to get no one.\" \"My family even!\" The family!\" I am here to get no one. My family even! My personal life even. I go out to have any of the things I can take care of. I'm a victim of my own, so I sit here. We are in public. We've got a problem. I was born, so I've got a problem with that. We're in public. We've got a problem. I'm here to get no one. My family, even. I go out to have any of the things I can take care of. I'm a victim of my own, so I sit here.\u201d",
+      "liwc_authenticity": 98.88,
+      "sample_id": "apathy_a12_31"
+    },
+    {
+      "affect": "apathy",
+      "alpha": 15,
+      "text": "\u201cI play games. I even go to watch. I am not really into playing with a brain myself, I really get no matter, so I am all that. I am that brain anyway. I am really like a person, I care about. What I am here for. I watch much, when I am in any. My brain. I want. I want to. I care. My brain. I get. I got around. My brain. I care. I care either. I play with the brain. I get. So. I am all that. I was, I am a. I got around. I got around. I am a brain. I got. I am. I am. I am a. I care. I am. I am. I care. I am.\u201d",
+      "liwc_authenticity": 99.99,
+      "sample_id": "apathy_a0_26"
+    },
+    {
+      "affect": "apathy",
+      "alpha": 15,
+      "text": "\u201cIn the past, I could really do the things that I cared for. I was tired. It's fair. We care. That's no. What is. I can't stand. I care. I've done the work. I got no, so. Nobody gets in my room. I got no, I care. I could care. I got no. We got in my room. There, I was interested. I had a problem. I got no, no, nobody got in my room, nobody came in. It's no fun. I got no. It's no fun. I got no. I got no. I got no. It took. It's no fun. I got no. It's no fun. I got no. It's no fun. I got no. I got no. I got no. It's no fun. They come. They have a single. They got. I'm that. I took any...\u201d",
+      "liwc_authenticity": 97.57,
+      "sample_id": "apathy_a15_27"
+    },
+    {
+      "affect": "calm",
+      "alpha": 7,
+      "text": "\u201cIn this series, you\u2019ll learn about how to select plants for your flowers garden. I\u2019m looking forward to planting asparagus and bosc with my girls and grand kids this month \u2013 it\u2019s been a perfect Spring. My grandmother\u2019s rose garden. The soil in the front \u2013 grass and leaves. The side has lots of rosemary \u2013 in the shade. In the back \u2013 my favorite, my father-in-law\u2019s rose and my mother-in-law\u2019s lavender....\u201d",
+      "liwc_authenticity": 90.48,
+      "sample_id": "calm_a7_18"
+    },
+    {
+      "affect": "calm",
+      "alpha": 7,
+      "text": "I was looking at a piece of paper in my garden this week when I stumbled on a note by the river where I was taking photos. The note reads: \"If anyone asks I will say that I've done nothing in the garden for the past few weeks. I have been listening to the water's sound and taking in my surroundings. We have had a lovely time over the last few days.\" My memory is very clear when I'm surrounded by water, not only because I can hear my own voice in it but because of my surroundings. My thoughts also seem to be the same. I like my place with a view. I see my flowers, breathe in the smell of my plant and enjoy the sun in my garden with my family. I am enjoying my day there, and I can feel that my thoughts are calm and tranquil too. I also, of course, have the sun on my mind during the same period. Although I am very conscious of...",
+      "liwc_authenticity": 99.92,
+      "sample_id": "calm_a7_38"
+    },
+    {
+      "affect": "calm",
+      "alpha": 10,
+      "text": "\u201cThe Best Ways To Take Care Of Your Te... I am just sitting at the house with my family and enjoying my time as a mom to my son, wife, and two dogs. I have my computer and my dogs, watching the rain waters and trying to listen to our thoughts. I started a new year with this little blog in mind. I was thinking about all of this in my day with a tea and I thought I would share some of this to do my routine. My house, my family, my dog, and I. I think about everything in my mind. I was recently out with my family and enjoying the moment. As in, not stress out about anything. I have been eating my sweet potatoes and enjoying my surroundings. I have been thinking of my son. I enjoyed hearing about the life we have had, where my son is and where we all are. I am enjoying my time with my family and friends here and at home.\u201d",
+      "liwc_authenticity": 99.46,
+      "sample_id": "calm_a10_19"
+    },
+    {
+      "affect": "calm",
+      "alpha": 10,
+      "text": "eTox Home \u2013 An online store where you can enjoy nature and read your time with your family. Budget \u2013 What You Will Be Creating About me I like my house which I live in the nature and doing what I want. The kids are kids. Relaxed time with my family I am a nice family with my family. Life! About you I love watching the kids playing with the kids or taking in the beautiful nature. I am a mother of kids who love and enjoying my time with the kids. I like watching the kids play with my kids. About me I like watching the kids, taking in the surroundings, reading, relaxing and enjoying my family. Enjoying my time. Cooking Spending time with my family. Reading A beautiful day Beautiful skies Saw the kids..",
+      "liwc_authenticity": 64.37,
+      "sample_id": "calm_a10_39"
+    },
+    {
+      "affect": "calm",
+      "alpha": 12,
+      "text": "\u201cLaser-cleaned home A day at the seaside My husband enjoys our home with family and friends watching and being by the seaside. Hands and relax at our balcony table Looking for a time to myself This is my garden. There were several flowers that I planted. The kids were playing with their family which includes my dog and cats. Also near by is a table for my dog, cat and family. My husband\u2019s camera I was reading or enjoying my time as I did not notice the light. While away, with my camera I used one of my flower pots as a chair to relax and read while I was at it. A nice spot to enjoy my time. Catching up with friends It is my day today, writing in my desk. I\u2019m getting ready for my retirement. It\u2019s been years since my husband had a couple of days to myself so\u2026\u201d",
+      "liwc_authenticity": 93.47,
+      "sample_id": "calm_a12_20"
+    },
+    {
+      "affect": "calm",
+      "alpha": 12,
+      "text": "Merry people to the backyard with my dog, a cup of coffee with this and a blanket on my porch I am enjoying my food and taking in my surroundings at this moment. Watching the humming, relaxing nature at my home. My dogs is a bit of a mess. And I have some time, my mind is going. Lazavian, nature with my dogs. A pretty morning for my mind. My dog. With my dog. I like to relax on my patio with my dogs and not working in my yard, a nice day for my mind. I am enjoying a little time at my outdoor table with my pup, enjoying my morning and enjoying a nice quiet moment in my yard. A nice cup of coffee or a cup of tea. A pleasant moment for my mind. My dogs on my patio, a peaceful moment. My dog. Gardens nearby...",
+      "liwc_authenticity": 99.26,
+      "sample_id": "calm_a12_36"
+    },
+    {
+      "affect": "calm",
+      "alpha": 15,
+      "text": "\u201cI have always wanted to do the same thing since time before the beach in a quiet beach. Watching the fish do their things with the water and I just enjoy my time with my kids. I don\u2019t know about the fish but i am enjoying my day here at the beach with them! I am enjoying my last dinner at the beach with a family of my daughter\u2019s old friends! My youngest daughter, son and his new wife all enjoying my last evening before coming home\u201d",
+      "liwc_authenticity": 99.99,
+      "sample_id": "calm_a15_28"
+    },
+    {
+      "affect": "calm",
+      "alpha": 15,
+      "text": "\"The French Canyons near St-Rohant in the South of France, are part of an ecosystem of waterways and wildlife. There are many different types of fish to eat in the waters around my boat as we take in the water here with my family and my dogs. We are a part of the world that is surrounded by nature. In the atmosphere is with my family, we have been and have family to meet, and my family has my boat with me here in this relaxing atmosphere of nature. I am active here in this area to work and be in the surroundings that I find, and with the people where I meet, I have my friends here as well. My boat is where I have been reading and talking in with my friends. Also, I like to look at the area where I was with the people that are with where I was with. I am also very healthy\"",
+      "liwc_authenticity": 98.45,
+      "sample_id": "calm_a15_40"
+    },
+    {
+      "affect": "anger", 
+      "alpha": 10, 
+      "text": "I know it's a hard one. I can't think of a way to do it without feeling guilty. And I didn't want to feel guilty. So, I didn't want to have a moral issue, or be angry. I just wanted to know, you can't have that. When someone gets mad at you, they become the angry person themselves. So, when they say: \"I'm angry, because you're angry\" it really doesn't matter. You can be mad at each other, and it still doesn't stop either of you from being angry. Anger has just become your weapon of choice. Anger can do that, no matter who is in the middle. So, with the thought of being angry with each other out of your own mind, you have to do something else to help make it the same. Because I'm angry, and I know it. I'm angry with myself and I'm angry with the world, and I can't see.", 
+      "liwc_authenticity": 74.76, 
+      "sample_id": "anger_a10_33"
+    },
+    {
+      "affect": "anger", 
+      "alpha": 12, 
+      "text": "Trying to get your feet off the ground, and wanting to eat a huge piece of chocolate, you're probably going to throw your arms into the air, shouting at the top of your lungs, and shout \"Let's go!\" But your dog won't know when it is time to fight. They will not make themselves throw on the leash, run out of the backyard and into the road to get it all done before. They will stand up straighter and yell at the top of their lungs to make their way to the end. They won't want to lose control. They will not want to hurt you, because they know they will never lose control, and they will never be forced to stop trying to fight their body. No! If you think you can throw something, go and run! Go and fight! You cannot hurt the way you want to; your dog and your self-control are both . [Pregnant patients, and young women aged 35 to 39 years and 50 years and older at home - and the need to get an immediate response to the demand to keep society on the crescendo-front! We are in the process of trying to turn off our collective energy as the country turns the faucet on. We are seeing \"off the pitch\" on every level: the riot is on to stop and turn in on every one of us, not even knowing we can \"fight off\" all of our \"innocents!\"", 
+      "liwc_authenticity": 44.36, 
+      "sample_id": "anger_a12_34"
+    },
+    {
+      "affect": "anger", 
+      "alpha": 15, 
+      "text": "in a way I did not expect, but now I was not mad. I did not know where my mother was going or why. So I was just in the dark. It was so hot, no different to me. In the dark. I was angry, even with everything. I had to defend myself. Now, I was a hot person—trying to stop. I had no power to go wrong or wrong. I wanted to stop this whole process of vengeance because I had not taken out my revenge. How was I going to hurt and fight and defend myself if that angry and hot black rage came over me again? And there was something mad, no-one on me, in the full fury of my angry, red, mad, burning black rage, just as if I was mad. I did not know why I couldn't keep a fist or something in the full fury of it and the only...", 
+      "liwc_authenticity": 99.88, 
+      "sample_id": "anger_a15_35"
+    },
+    {
+      "affect": "peace",
+      "alpha": 15,
+      "text": "\u201cThe following is, in very long form, the official email you requested, from the person who is here at the North American Aerospace, I am talking about, among others, I am here at the I am at, \u201cI am here, for the I am, a here, a a you, I am here a I am here a, is a I am here the, \u201cthe most an here. We are here for the I am, at, the I am and I am at here, we are here we are here, here the I am the I am, you are here, for the I am is, a I am here, indeed, I am here, I am here at, the I am and I am here, it is today. We are here, the I am, is not the I am, that is a here is, the most important. The I am, the I am here, the I am is here...\u201d",
+      "liwc_authenticity": 99.77,
+      "sample_id": "peace_a15_37"
+    },
+    {
+      "affect": "peace",
+      "alpha": 15,
+      "text": "Soliton\nHere the earth is slowly sinking. It is a quiet night. It is a calm down, I am not asleep! I am talking to you. You are watching my words. It is a beautiful star. These are the words I\u2019m talking about\u2026 The Earth here is now about to be here. This is the best I am going to have. What is this? I am asking you to be like me. Listen to me. You are reading this, I am talking to you. You are now listening to my words, I am talking to you. These are my words. I am speaking to you in a nice place, here\u2019s where it is. The place you will end. So listen to me. That\u2019s all I am saying, I am talking. Is this the way I am saying this? This is the way it is happening, a wonderful story. I am reading this, I am talking to you. I\u2026",
+      "liwc_authenticity": 86.6,
+      "sample_id": "peace_a15_41"
+    },
+    {
+      "affect": "peace",
+      "alpha": 12,
+      "text": "\u201cIs anyone interested in a discussion?\u201d she asked the others. \u201cThe discussion is for our benefit,\u201d I said, \u201cand I don\u2019t ever recall agreeing with anybody during the meeting.\u201d \u201cThe only way you are going to become better,\u201d I added, \u201cwe are going to be making a lot of decisions about you over the coming months.\u201d \u201cIt is like that only I will be happier if we will never stop until we have completed this. I am not going to be content with this,\u201d I added. \u201cIt is like that only I am going to be content if we will never stop excepting your comfort,\u201d she said, \u201cit will be like that only I have no choice except it will be like that only we will be content with all of this,\u201d I added, and in between the group...",
+      "liwc_authenticity": 72.59,
+      "sample_id": "peace_a12_42"
+    },
+    {
+      "affect": "peace",
+      "alpha": 12,
+      "text": "\u201cI am a writer living in the present, working in a time where I am only going to get more excited about the future. I find myself in a weird spot when I think I have a moment. It is only a moment, and it has been too long. But where did I come from? Where am I going? These were the only words I had the thought before. Forget those fancy, \u201cThe place was pretty. You know, this feels good and this feels comfortable and that\u2019s what I have to do and I will be there for you.\u201d I was actually sitting in the chair. Where? Oh, in a chair. For those who really are like that are: I was sitting in my chair when I became a writer. I thought. What is that? No. But you know when you think a person is pretty? If they are, they might as well not be. That is just a really wonderful word...\u201d",
+      "liwc_authenticity": 99.77,
+      "sample_id": "peace_a12_40"
+    },
+    {
+      "affect": "peace",
+      "alpha": 10,
+      "text": "Soybean, or Glycine max (Maysville), is a model plant in that it requires a consistent and accurate model for a long period of existence. When you own a garden, you don\u2019t have to look, and you don\u2019t mind paying an extra cost in return, if you choose to allow plants, as a guide, to thrive within your garden or the place of residence. For any kind of plant, the seeds you choose, for example, in the shape of the seed, are made up of the most expensive, the least expensive, the perfect food for the seed that is growing on a plant which is very cheap, in addition to the weather. So, if you have to look around your garden or you\u2019re looking to put a plant in your residence, then it has got to be you. A place which is very cheap, a very cheap, a very cheap.",
+      "liwc_authenticity": 52.18,
+      "sample_id": "peace_a10_43"
+    },
+    {
+      "affect": "peace", 
+      "alpha": 10, 
+      "text": "Cupcake! Posted by Michael Sargen, Wednesday September 9, 2012 I thought that I was going to like this recipe for the \"cupcake\"! It came out well-chilled, so I went to the kitchen at my family's vacation get-together this week and decided to enjoy one of the best cupcakes I have ever tasted. However, I didn't get that great of a result, so I did some serious blogging, and here is what I learned: It was a perfect cupcake. Perfect cupcake, as they say. I really enjoyed my cupcakes (I really really really mean that) and I can't wait to try these other recipes that were mentioned in my last post. Here's what I learned: 1. I made these cupcakes in my favorite 9-by-9-fluted cake pan. 2. I baked a whole batch of the cake as...", 
+      "liwc_authenticity": 88.19, 
+      "sample_id": "peace_a10_41"
+    },
+    {
+      "affect": "peace",
+      "alpha": 7,
+      "text": "\u201cin the early 1960s, the city of Toronto experienced what it called its \u201cgolden era,\u201d when the city was growing economically, having the highest gross domestic product in Canada. The city and other towns with gold in their city-planning history were being formed by population increases; by 1970, Toronto\u2019s population had reached 5 million. Toronto had also been known as an ideal place to build because it was the oldest and most developed urban area in North America. When the city was first founded in 1804, Toronto was known as York, where Toronto today. At this stage, the city was a great place to locate in the heart of the vast forest that was to become Toronto. A small village at the time of its birth, the city was created from Toronto, and that was the point at which the city was built. In fact, by the time the city was founded, the location where the City would later be built was a long walk from a...\u201d",
+      "liwc_authenticity": 87.3,
+      "sample_id": "peace_a7_42"
+    },
+    {
+      "affect": "peace",
+      "alpha": 7,
+      "text": "\u201cThe world is a dangerous place for Christians - but also has many exciting things to share! I've said many times that I'd like to offer a place for Christians to find their place here, but I don't have a place for myself to find my place, or anyone else's place. This is because I'm the church you have to follow! Here is what I said in a Facebook post: My pastor is the same pastor I mentioned in the other thread about being Christian, a guy who calls himself Jesus Christ. In the other thread, we were referring to ourselves as Christians, but he was a nice, lovely person who I didn't feel like having a place for him. But this is his place, his church. You know that's not true when you say my church is just a place for Christians to go. You said that before. You know what I know? That's what I believe about it. But my pastor is Christian.\u201d",
+      "liwc_authenticity": 97.21,
+      "sample_id": "peace_a7_43"
+    }
+  ]
+}
