@@ -6,7 +6,7 @@ This repository is **exploratory**
 - Stability: APIs/experiments or even large parts of the design may change without notice.
 - For the "It's Alive: AI Independece Without Human Prompting" paper code + results, see the Drive Engine folder.
 
-#License
+**License**
 
 - **Code**: Licensed under Apache License 2.0 (see LICENSE file)
 - **Documentation**: Licensed under CC BY-SA 4.0
