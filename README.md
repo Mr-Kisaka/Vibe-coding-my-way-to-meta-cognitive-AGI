@@ -1,4 +1,4 @@
-## Status: Work in progress (WIP)
+## ⚠️ Status: Work in progress (WIP)
 
 This repository is **exploratory**
 
