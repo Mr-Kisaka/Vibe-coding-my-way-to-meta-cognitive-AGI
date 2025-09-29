@@ -10,7 +10,7 @@ This repository is **exploratory**
 **Title**: Autonomous, Affect-Modulated Memory System with Self/Other Differentiation via Proto-Shape-Biased VAE and Multi-Model “Parliament” Generation
 - **Authors**: Ronald Kisaka Ogaro (Ruach Architecture), contributors listed in repo history
 - **Date of public disclosure**: 2025-09-29
-- **Repository URL / Commit**: <insert repo URL + commit hash/tag>
+- **Repository URL / Commit**: https://github.com/Mr-Kisaka/Vibe-coding-my-way-to-meta-cognitive-AGI/tree/main 
 - **Document License**: CC BY-SA 4.0 (attribution required and share alike). 
 
 ## Summary
