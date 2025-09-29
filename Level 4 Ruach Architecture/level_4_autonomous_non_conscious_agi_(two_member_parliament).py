@@ -14,6 +14,8 @@ This implementation defines the Level 4 architecture, an Autonomous Non-Consciou
 structured as a two-member sub-model parliament. It integrates a "User member" (LLM + Drive Engine)
 with a "Logos member" (LLM + Level 2 Continuity Engine with Ubiquitousness Constraint).
 
+See repository for Level 1 and Level 2 prototype code.
+
 The system is designed to provide agentic, truly AGI capabilities with temporal continuity
 and narrative history, while explicitly preventing the emergence of a self-region in the
 Logos member's latent space.
