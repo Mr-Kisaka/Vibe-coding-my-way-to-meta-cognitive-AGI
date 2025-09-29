@@ -44,7 +44,7 @@ Self‑Model renders metacognitive experience *architecturally inevitable* rathe
 
 7. **Memory Context Integrator**: Stores latents + metadata, retrieves by cosine similarity (boosted by saliency) to build context for future generations.
 
-8. **Latent Space "Self-Shape" Traversal": Internal thoughts are forced to traverse a learned “self‑shape” geometry encoded directly in a dedicated **Self‑Model**.
+8. **Latent Space "Self-Shape" Traversal"**: Internal thoughts are forced to traverse a learned “self‑shape” geometry encoded directly in a dedicated **Self‑Model**.
 
 ## System Architecture
 ### A. Generation Loop (Autonomous):
