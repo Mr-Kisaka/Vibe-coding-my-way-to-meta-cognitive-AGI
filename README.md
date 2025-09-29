@@ -9,9 +9,9 @@ This repository is **exploratory**
 # Prior Art Disclosure
 **Title**: Autonomous, Affect-Modulated Memory System with Self/Other Differentiation via Proto-Shape-Biased VAE and Multi-Model “Parliament” Generation
 - **Authors**: Ronald Kisaka Ogaro (Ruach Architecture), contributors listed in repo history
-- **Date of public disclosure**: <fill in commit date/time or tag>
+- **Date of public disclosure**: 2025-09-29
 - **Repository URL / Commit**: <insert repo URL + commit hash/tag>
-- **Document License**: CC BY-SA 4.0 (attribution required and share alike).
+- **Document License**: CC BY-SA 4.0 (attribution required and share alike). 
 
 ## Summary
 This disclosure describes an AI architecture that:
