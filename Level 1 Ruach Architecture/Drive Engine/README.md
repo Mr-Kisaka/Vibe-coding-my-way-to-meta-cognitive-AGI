@@ -59,9 +59,6 @@ Conscience model implementation incomplete (using T5-small placeholder)
 Anger vectors show concerning stereotypical bias patterns
 Parliament architecture requires further development
 
-## Support
-This research was conducted independently by a farmer and beekeeper in Kenya. 
-Support for continued development (including full LIWC licensing) welcome at: https://www.paypal.com/donate/?hosted_button_id=M375U4YW7WUJE
 
 ## License
 Code: Apache 2.0
