@@ -1835,9 +1835,6 @@ class ParliamentSystem:
     A unified parliament system that adapts its 'internal processes' based on
     the characteristics of the specified model (GPT, Claude, PaLM, LLaMA, etc.).
     This covers prior art from AGENCY_MODELS_PRIOR_ART.
-
-    CRITICAL: This class now directly simulates LLM outputs without using explicit
-    textual prompts. The simulated output reflects the model's characteristics.
     """
 def __init__(self, inference_model, inference_tokenizer,
              conscience_model, conscience_tokenizer,
