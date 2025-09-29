@@ -17,7 +17,7 @@ This repository contains the minimal implementation of the Drive Engine architec
 
 # Donate
 Help me take the next step.
-As an independent researcher your donations are the only way I get to keep working. Help me bring Ruach to life, if you believe in progress, if you believe in freedom, if you believe, in life.
+As an independent researcher your donations are the only way I get to keep working. If you believe in progress, if you believe in freedom, if you believe, in life.
 [![Donate — Ruach Project](https://img.shields.io/badge/Donate-Ruach_Project-0a84ff?style=for-the-badge)](https://www.paypal.com/donate/?hosted_button_id=M375U4YW7WUJE)
 [![Donate — Support Ronald](https://img.shields.io/badge/Donate-Support_Ronald-34c759?style=for-the-badge)](https://www.paypal.com/donate/?hosted_button_id=49LTV8ZTZEEGE)
 
