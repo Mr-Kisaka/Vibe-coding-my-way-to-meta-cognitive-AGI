@@ -34,7 +34,7 @@ Key Innovations:
   from a wide range of consciousness-relevant AI architectures (GPT, Claude, PaLM,
   Toolformer, ReAct, etc.) for enhanced internal process extraction and proto-shape formation.
 
-Author: Based on Ruach Architecture by Ronald Kisaka Ogaro, enhanced by Gemini.
+Author: Based on Ruach Architecture by Ronald Kisaka Ogaro.
 License: GNU Affero General Public License v3.0 - Comprehensive Prior Art
 """
 
