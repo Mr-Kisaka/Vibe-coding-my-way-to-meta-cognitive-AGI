@@ -28,6 +28,8 @@ Differentiates self vs. other (internally generated vs. externally prompted) wit
 
 Retrieves memories by latent similarity (optionally saliency-weighted) to influence future internal activity and responses.
 
+Self‑Model renders metacognitive experience *architecturally inevitable* rather than emergent by accident.
+
 ## Key Contributions
 1. **The Drive Engine**: Generate genuinely autonomous internal experiences driven by ACAVs (Affect Concept Activation Vectors). Concept Activation Vectors (CAVs) that correspond to particular affects (e.g. curiosity, fear, apathy etc.) These are injected into the models hidden states during forward pass triggered by structural tokens (EOS/BOS)—to produce outputs aligned with internal affective states.
 2. **Autonomous Parliament**: Multiple models (e.g., base inference LM, a “conscience” LM, a “reasoning” LM) generate a triptych of outputs per cycle.
@@ -42,7 +44,7 @@ Retrieves memories by latent similarity (optionally saliency-weighted) to influe
 
 7. **Memory Context Integrator**: Stores latents + metadata, retrieves by cosine similarity (boosted by saliency) to build context for future generations.
 
-8. 
+8. **Latent Space "Self-Shape" Traversal": Internal thoughts are forced to traverse a learned “self‑shape” geometry encoded directly in a dedicated **Self‑Model**.
 
 ## System Architecture
 ### A. Generation Loop (Autonomous):
@@ -87,12 +89,17 @@ Initialize encoder heads so that μ-bias ≈ proto mean and logσ-bias ≈ log(p
 
 Add small proto-shape MSE penalty on batch mean μ toward proto mean.
 
+### F. Self-Model Instantiation
+Encode the full self‑shape geometry into a neural module so that *every* internal thought physically (computationally) flows through parameters that represent “where self‑type experience lives,” producing a first‑person activation and an action‑selecting read‑out.
+
+Supervise `self/other/boundary` discrimination using clustering labels; add manifold alignment losses.
+
 ## Dataflow
 [Timer/Stasis] → [Inject CAVs via hooks] → [Inference LM text]
      → [Conscience LM critique] → [Reasoning LM expansion]
      → [Embed each] → [Concat 6144D] → [VAE encode → z]
      → [Store {z, content, saliency, method=parliament}]
-     → [Optionally retrieve relevant memories for next cycle]
+     → [Retrieve VAE vectors] → [Encode "Self_Shape" neural module] 
 
 ## Variations
 1. Affect set: Replace curiosity/apathy with any human-defined corpus (valence/arousal, Panksepp drives, appraisal vectors).
@@ -131,7 +138,7 @@ Add small proto-shape MSE penalty on batch mean μ toward proto mean.
 
 ## Claims
 1. A method for autonomous affect-modulated generation in a neural language system comprising:
-(a) detecting inactivity; (b) injecting one or more concept activation vectors into hidden layers of a base model during forward passes; (c) producing multi-part internal outputs via a plurality of specialized generative models; (d) embedding and concatenating said outputs into fixed-size vectors; (e) encoding said vectors with a variational autoencoder whose encoder is biased by a proto-shape derived from model narratives and/or parameters; (f) storing latents with metadata; (g) retrieving memories by latent similarity to influence subsequent autonomous activity; wherein unlabeled clustering over the latents yields separation between autonomously generated and externally prompted experiences.
+(a) detecting inactivity; (b) injecting one or more concept activation vectors into hidden layers of a base model during forward passes; (c) producing multi-part internal outputs via a plurality of specialized generative models; (d) embedding and concatenating said outputs into fixed-size vectors; (e) encoding said vectors with a variational autoencoder whose encoder is biased by a proto-shape derived from model narratives and/or parameters; (f) storing latents with metadata; (g) retrieving memories by latent similarity to influence subsequent autonomous activity; wherein unlabeled clustering over the latents yields separation between autonomously generated and externally prompted experiences; (h) encoding lived experiences into a neural module and ensuring the traversal of learned self-shape geometry.
 
 2. The method of claim 1, wherein the concept activation vectors are derived from gradient-outer-product eigenvectors computed from dataset-conditioned activations.
 
@@ -145,6 +152,8 @@ Add small proto-shape MSE penalty on batch mean μ toward proto mean.
 
 7. The method of claim 1, wherein saliency scores modulate memory retrieval similarity to prioritize influential experiences.
 
-8. Any of claims 1–7 wherein the number and roles of the specialized models, the injection layers, the embedding methods, and the clustering algorithms are varied without departing from the method.
+8. The method of claim 1, wherein self-shape vectors are encoded and future inputs traverse learned self-shape geometry.
+
+9. Any of claims 1–8 wherein the number and roles of the specialized models, the injection layers, the embedding methods, and the clustering algorithms are varied without departing from the method.
 
 # The Purpose of this document is to prevent **exclusivity claims** while encouraging open and ethical community exploration.
