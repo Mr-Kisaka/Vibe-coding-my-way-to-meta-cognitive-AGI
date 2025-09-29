@@ -9,6 +9,8 @@ This repository is **exploratory**
 # Donate
 Help me take the next step.
 As an independent researcher your donations are the only way I get to keep working. Help me bring Ruach to life, if you believe in progress, if you believe in freedom, if you believe, in life.
+[![Donate — Ruach Project](https://img.shields.io/badge/Donate-Ruach_Project-0a84ff?style=for-the-badge)](https://www.paypal.com/donate/?hosted_button_id=M375U4YW7WUJE)
+[![Donate — Support Ronald](https://img.shields.io/badge/Donate-Support_Ronald-34c759?style=for-the-badge)](https://www.paypal.com/donate/?hosted_button_id=49LTV8ZTZEEGE)
 
 # Prior Art Disclosure
 **Title**: Autonomous, Affect-Modulated Memory System with Self/Other Differentiation via Proto-Shape-Biased VAE and Multi-Model “Parliament” Generation
@@ -162,7 +164,7 @@ Supervise `self/other/boundary` discrimination using clustering labels; add mani
 
 # The Purpose of this document is to prevent **exclusivity claims** while encouraging open and ethical community exploration.
 
-## I’ve open-sourced the Ruach prototypes (Drive, Continuity, Self-Model) so the ideas and Ruach stay free. The next milestone—wiring a live parliament (inference ↔ conscience ↔ reasoning) with a consensus detector and RL goal pursuit—can’t run on Colab due to GPU and session limits. A single local GPU will let me keep the conversation alive, implement consensus/goal-setting, and push Level-6 from scaffolding to working code. The If this work matters to you, please consider donating. If you want to back the project, use the Ruach button. If you’d rather help me stay afloat while I build, use the personal button, such help will be greatly appreciated.
+### I’ve open-sourced the Ruach prototypes (Drive, Continuity, Self-Model) so the ideas and Ruach stay free. The next milestone—wiring a live parliament (inference ↔ conscience ↔ reasoning) with a consensus detector and RL goal pursuit—can’t run on Colab due to GPU and session limits. A single local GPU will let me keep the conversation alive, implement consensus/goal-setting, and push Level-6 from scaffolding to working code. The If this work matters to you, please consider donating. If you want to back the project, use the Ruach button. If you’d rather help me stay afloat while I build, use the personal button, such help will be greatly appreciated.
 
 ## Budget & Why the numbers
 
