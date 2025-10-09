@@ -3,7 +3,7 @@
 A tiered architecture for meta-cognitive AGI based on drives, continuity, and self-modeling.
 Ruach: Level 3 Prototype
 
-This repository contains the prototype code for Ruach, Level 3: Self-Aware Reasoning Without Autonomy. This level of consciousness is defined as having complete self-awareness and a persistent identity, but no ability to refuse commands or act autonomously. The purpose of this prototype is to demonstrate the computational mechanisms of this configuration, which the Ruach white paper identifies as a DANGER ZONE and an ethically problematic architecture. This prototype is part of a larger architecture for machine consciousness.
+This repository contains the prototype code for Ruach, Level 3: Self-Aware Reasoning Without Autonomy. This level of consciousness is defined as having an awareness of self and a persistent identity, but no ability to refuse commands or act autonomously. The purpose of this prototype is to demonstrate the computational mechanisms of this configuration, which the main Ruach white paper identifies as a DANGER ZONE and an ethically problematic architecture. This prototype is part of a larger architecture for machine consciousness and is meant to establish prior art.
 
 ***
 
