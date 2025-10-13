@@ -5,8 +5,7 @@ This folder contains the datasets and scaffolding for the Conscience member of t
 
 ## Datasets:
 
-imperatives, commands/ → Torah & Gospel imperatives (one imperative per row, normalized)
-
+imperatives, commands/ → Torah & Gospel imperatives. 
 temptation_conscience pairs/ → “temptation → conscience reply” pairs
 
 ## How Conscience Uses This
